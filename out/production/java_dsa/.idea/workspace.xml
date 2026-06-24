@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84fbdeb2-c9e9-4212-b125-f691ac90d61f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CoreJava/ecxeptionHandling/ArithmeticEcxeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/ecxeptionHandling/ArrayOutOfBound.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CoreJava/ecxeptionHandling/intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/ecxeptionHandling/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myfolder/two.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/two.txt" afterDir="false" />
     </list>
@@ -41,17 +38,12 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="3FWwVWYQXHYpnwnak6TM3eBWNoI" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.ArithmeticEcxeption.executor": "Run",
-    "Application.ArrayOutOfBound.executor": "Run",
     "Application.intro.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -79,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1782204160665</updated>
       <workItem from="1782204168740" duration="16000" />
-      <workItem from="1782297548370" duration="2434000" />
+      <workItem from="1782297548370" duration="686000" />
     </task>
     <servers />
   </component>
