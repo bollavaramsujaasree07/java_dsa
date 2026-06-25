@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84fbdeb2-c9e9-4212-b125-f691ac90d61f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CoreJava/ecxeptionHandling/ArithmeticEcxeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/ecxeptionHandling/ArrayOutOfBound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/ecxeptionHandling/intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/ecxeptionHandling/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/java_dsa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/ecxeptionHandling/Throw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/ecxeptionHandling/UnChecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/ecxeptionHandling/finally1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld.java.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_dsa/CoreJava/ecxeptionHandling/finally1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_dsa/CoreJava/ecxeptionHandling/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myfolder/two.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/two.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_dsa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_dsa/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +56,13 @@
   "keyToString": {
     "Application.ArithmeticEcxeption.executor": "Run",
     "Application.ArrayOutOfBound.executor": "Run",
+    "Application.Throw.executor": "Run",
+    "Application.UnChecked.executor": "Run",
+    "Application.finally1.executor": "Run",
     "Application.intro.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -79,11 +87,23 @@
       <option name="presentableId" value="Default" />
       <updated>1782204160665</updated>
       <workItem from="1782204168740" duration="16000" />
-      <workItem from="1782297548370" duration="2434000" />
+      <workItem from="1782297548370" duration="5069000" />
+      <workItem from="1782407265527" duration="1936000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
