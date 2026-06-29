@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84fbdeb2-c9e9-4212-b125-f691ac90d61f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/java_dsa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/ecxeptionHandling/Throw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/ecxeptionHandling/finally1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld.java.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_dsa/CoreJava/ecxeptionHandling/finally1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_dsa/CoreJava/ecxeptionHandling/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/StringHandling/StringBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/StringHandling/StringBasics.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,23 +45,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArithmeticEcxeption.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayOutOfBound.executor&quot;: &quot;Run&quot;,
-    &quot;Application.finally1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.intro.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArithmeticEcxeption.executor": "Run",
+    "Application.ArrayOutOfBound.executor": "Run",
+    "Application.Throw.executor": "Run",
+    "Application.UnChecked.executor": "Run",
+    "Application.finally1.executor": "Run",
+    "Application.intro.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,7 +82,9 @@
       <updated>1782204160665</updated>
       <workItem from="1782204168740" duration="16000" />
       <workItem from="1782297548370" duration="5069000" />
-      <workItem from="1782407265527" duration="469000" />
+      <workItem from="1782407265527" duration="2474000" />
+      <workItem from="1782737546146" duration="898000" />
+      <workItem from="1782752045255" duration="300000" />
     </task>
     <servers />
   </component>
