@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84fbdeb2-c9e9-4212-b125-f691ac90d61f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CoreJava/StringHandling/stringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/StringHandling/stringBuilder.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/StringHandling/stringBuilderMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/StringHandling/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/StringHandling/StringMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,8 @@
     "Application.UnChecked.executor": "Run",
     "Application.finally1.executor": "Run",
     "Application.intro.executor": "Run",
+    "Application.stringBuilder.executor": "Run",
+    "Application.stringBuilderMethods.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -87,7 +91,8 @@
       <workItem from="1782737546146" duration="898000" />
       <workItem from="1782752045255" duration="1860000" />
       <workItem from="1782776773792" duration="676000" />
-      <workItem from="1782792078608" duration="342000" />
+      <workItem from="1782792078608" duration="8805000" />
+      <workItem from="1782838437584" duration="1368000" />
     </task>
     <servers />
   </component>
