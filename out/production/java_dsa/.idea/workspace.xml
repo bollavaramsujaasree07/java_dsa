@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84fbdeb2-c9e9-4212-b125-f691ac90d61f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CoreJava/StringHandling/StringBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/StringHandling/StringBasics.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/StringHandling/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/StringHandling/StringMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,8 @@
   "keyToString": {
     "Application.ArithmeticEcxeption.executor": "Run",
     "Application.ArrayOutOfBound.executor": "Run",
+    "Application.StringBasics.executor": "Run",
+    "Application.StringMethods.executor": "Run",
     "Application.Throw.executor": "Run",
     "Application.UnChecked.executor": "Run",
     "Application.finally1.executor": "Run",
@@ -84,7 +85,9 @@
       <workItem from="1782297548370" duration="5069000" />
       <workItem from="1782407265527" duration="2474000" />
       <workItem from="1782737546146" duration="898000" />
-      <workItem from="1782752045255" duration="300000" />
+      <workItem from="1782752045255" duration="1860000" />
+      <workItem from="1782776773792" duration="676000" />
+      <workItem from="1782792078608" duration="342000" />
     </task>
     <servers />
   </component>
